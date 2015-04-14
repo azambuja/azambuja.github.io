@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tecnologia | Marcello Azambuja]]></title>
   <link href="http://azamba.net/blog/categories/tecnologia/atom.xml" rel="self"/>
   <link href="http://azamba.net/"/>
-  <updated>2015-04-14T15:44:44-03:00</updated>
+  <updated>2015-04-14T19:15:31-03:00</updated>
   <id>http://azamba.net/</id>
   <author>
     <name><![CDATA[Marcello Azambuja]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Globo.com Hack in Poa 2015]]></title>
+    <link href="http://azamba.net/blog/2015/04/14/globo-dot-com-hack-in-poa-2015/"/>
+    <updated>2015-04-14T14:43:30-03:00</updated>
+    <id>http://azamba.net/blog/2015/04/14/globo-dot-com-hack-in-poa-2015</id>
+    <content type="html"><![CDATA[<p>Esse final de semana o time da <a href="http://www.globo.com">Globo.com</a> organizou o <a href="http://hackinpoa.globo.com">Hack in Poa</a> marcando o inicio de suas atividades em Porto Alegre.
+O escritório está sendo inaugurado esse mês, no TecnoPUC. No Hack Day tivemos a partipação de mais de 100 desenvolvedores, dividos em 28 equipes, competindo em três categorias: Web, Mobile Apps e Cidadania.</p>
+
+<p><img src="/images/hackinpoa-time-globocom.jpg" alt="Hack in Poa - Time Globo.com" /></p>
+
+<p>Mais detalhes sobre o que rolou no evento aqui no <a href="http://www.techtudo.com.br/listas/noticia/2015/04/hack-poa-conheca-os-28-projetos-de-apps-que-ficarao-prontos-em-24h.html">Techtudo</a>.</p>
+
+<p><img src="/images/hackinpoa-completo.jpg" alt="Hack in Poa - Completo" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Televisão e os Novos Desafios Tecnológicos]]></title>
